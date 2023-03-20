@@ -1,7 +1,10 @@
-
 # Sveltyped 1.0!
 
 add a typewriter effect to your svelte applications
+
+
+## Github Repo
+https://github.com/MrsHorrid/Sveltyped
 
 
 ## Badges
@@ -41,4 +44,12 @@ in your svelte or sveltekit project install the sveltyped npm
 ## Authors
 
 - [@MrsHorrid](https://www.github.com/mrshorrid)
+
+
+# Hi, I'm Shaked! 👋
+
+
+## 🚀 About Me
+I'm a front end developer
+I love svelte and am actively pushing for it become the new industry standard.
 
