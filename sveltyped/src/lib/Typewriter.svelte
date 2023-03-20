@@ -66,9 +66,7 @@
 <span class="typewriter">{currentPhrase}<span class="cursor">|</span></span>
 
 <style>
-	.typewriter {
-		font-family: monospace;
-	}
+
 	.cursor {
 		animation: blink 1s infinite;
 	}
