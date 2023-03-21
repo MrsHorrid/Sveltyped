@@ -1,9 +1,6 @@
-
-
 # Sveltyped 1.0!
 
 add a typewriter effect to your svelte applications
-
 
 ## Badges
 
@@ -13,7 +10,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-
 ## Deployment
 
 To deploy this project run
@@ -22,17 +18,15 @@ To deploy this project run
   npm i sveltyped
 ```
 
-
 ## How to use
-in your svelte or sveltekit project install the sveltyped npm 
+
+in your svelte or sveltekit project install the sveltyped npm
 
 ## just nest it within an html tag!
-
 
 ## Screenshots
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/560606477241417729/1086935371411103825/image.png)
-
 
 ## Features
 
@@ -42,4 +36,3 @@ in your svelte or sveltekit project install the sveltyped npm
 ## Authors
 
 - [@MrsHorrid](https://www.github.com/mrshorrid)
-
