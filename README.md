@@ -2,7 +2,7 @@
 
 add a typewriter effect to your svelte applications
 
-
+https://img.shields.io/github/stars/mrshorrid/Sveltyped?style=social
 ## Github Repo
 https://github.com/MrsHorrid/Sveltyped
 
